@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTST-S110KGKT
+D Green 571nm LED Indication - Discrete 2V 2-SMD, No Lead Exposed Pad
+K
+F https://optoelectronics.liteon.com/upload/download/DS22-2003-083/LTST-S110KGKT.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Connector_UPDI") (type "KiCad") (uri "${KIPRJMOD}/libraries/Connector_UPDI.pretty") (options "") (descr ""))
+	(lib (name "BAT-HLD-003-SMT") (type "KiCad") (uri "${KIPRJMOD}/libraries/BAT-HLD-003-SMT") (options "") (descr ""))
+	(lib (name "LTST-S110KGKT") (type "KiCad") (uri "${KIPRJMOD}/libraries/LTST-S110KGKT") (options "") (descr ""))
+	(lib (name "PHAP3344CR") (type "KiCad") (uri "${KIPRJMOD}/libraries/PHAP3344CR") (options "") (descr ""))
+	(lib (name "SWS010-020R12SSA") (type "KiCad") (uri "${KIPRJMOD}/libraries/SWS010-020R12SSA") (options "") (descr ""))
+)

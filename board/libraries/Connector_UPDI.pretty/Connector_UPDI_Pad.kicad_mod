@@ -1,0 +1,88 @@
+(footprint "Connector_UPDI_Pad"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 2.31 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0705f8da-d21d-4740-bda7-9136eb42c215")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Connector_UPDI_Pad"
+		(at 0 3.81 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "abf25400-fdb9-48de-899b-7c236105d0bd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "96c84b95-857c-4770-a2a1-24b71a3921c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff939d34-ff03-426c-9eba-fc51405fe7e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at 0 5.31 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3c604feb-60d7-47b4-b153-13334aa288c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd circle
+		(at -2.54 0)
+		(size 1.8 1.8)
+		(layers "F.Cu" "F.Mask")
+		(uuid "ff57c9d8-6c62-4c49-8db3-13545a7eede4")
+	)
+	(pad "2" smd circle
+		(at 0 0)
+		(size 1.8 1.8)
+		(layers "F.Cu" "F.Mask")
+		(uuid "2b1c2006-ecc9-4496-9e4b-52247968081d")
+	)
+	(pad "3" smd circle
+		(at 2.54 0)
+		(size 1.8 1.8)
+		(layers "F.Cu" "F.Mask")
+		(uuid "624d3bfb-3cb6-4d36-9ad1-ea5ebcb2f055")
+	)
+	(embedded_fonts no)
+)

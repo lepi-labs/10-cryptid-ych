@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SWS010-020R12SSA
+D Slide Switch SPDT Surface Mount, Right Angle -25C ~ 85C,6V,300mA
+K
+F https://gct.co/files/drawings/sws010.pdf
+$ENDCMP
+#
+#End Doc Library
